@@ -1,2 +1,2 @@
-# NmapScripts
+#BashScripts
 Simple NMAP Scripts using for loops and case statement
