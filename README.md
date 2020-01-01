@@ -1,2 +1,2 @@
 #BashScripts
-Simple NMAP Scripts using for loops and case statement
+Simple bash Scripts used day to day life.
